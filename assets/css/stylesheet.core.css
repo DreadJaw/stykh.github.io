@@ -1,0 +1,23 @@
+@font-face { src: url(fonts/Triforce.ttf); font-family: 'Triforce'; }
+@font-face { src: url(fonts/HylianSerif.otf); font-family: 'Hylian'; }
+@font-face { src: url(fonts/Calamity.otf); font-family: 'Calamity'; }
+
+:root {
+    --color-black: #000000;
+}
+
+html, body { font-family: 'Calamity' !important; }
+
+.font-hylian { font-family: 'Hylian' !important; }
+.font-triforce { font-family: 'Triforce' !important; }
+.font-calamity { font-family: 'Calamity' !important; }
+
+.bg-black { background-color: var(--color-black) !important; }
+
+.jumbotron {
+    background-image: url(../img/jumbotron.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px #0D2A48;
+}
+.logo-image { height: 150px; width: auto; }
