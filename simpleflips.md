@@ -5,8 +5,10 @@ All songs are clickable YouTube links
 If you want to contribute a song. Hit me up on Discord.
 
 ### Legend
+```
 * - This song is not how it's labled or is a strange remix.
 ** - An Oatmeal Version
+```
 
 ### In Alphabetical Order...
 - [1 2 Oatmeal](https://www.youtube.com/watch?v=0Dpw0VvH4m0)
