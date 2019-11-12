@@ -30,6 +30,7 @@ If you want to contribute a song. Hit me up on Discord.
 - [MAAAAMAAAA UWU](https://www.youtube.com/watch?v=h4aYzKb0Cx8)
 - [Mambo No. 1,2](https://www.youtube.com/watch?v=wTr0P1Grc2g)
 - [Mario Canyon (25 Minutes & Perfect Loop)](https://www.youtube.com/watch?v=wiofMlBsgjY)
+- [NOMA - Oat Power](https://www.youtube.com/watch?v=7rydGZ8Ezv4)
 - [Oatmeal Bells](https://www.youtube.com/watch?v=7x_rOOT6UMs)
 - [Simpleflips has a sparta remix](https://www.youtube.com/watch?v=jDYTHK2eQ-o)
 - [Shine sprite for 4 minutes.](https://www.youtube.com/watch?v=3BwwbcO7yJ8)
