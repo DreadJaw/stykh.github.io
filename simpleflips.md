@@ -35,6 +35,7 @@ If you want to contribute a song. Hit me up on Discord.
 - [Mario Canyon (25 Minutes & Perfect Loop)](https://www.youtube.com/watch?v=wiofMlBsgjY)
 - [NOMA - Oat Power](https://www.youtube.com/watch?v=7rydGZ8Ezv4)
 - [Oatmeal Bells](https://www.youtube.com/watch?v=7x_rOOT6UMs)
+- [Oatmeal Come Home](https://www.youtube.com/watch?v=2FrHv32cE9s)
 - [Simpleflips has a sparta remix](https://www.youtube.com/watch?v=jDYTHK2eQ-o)
 - [Shine sprite for 4 minutes.](https://www.youtube.com/watch?v=3BwwbcO7yJ8)
 - [Super Buck Sunshine](https://www.youtube.com/watch?v=tifbKQt51WY)
@@ -42,6 +43,8 @@ If you want to contribute a song. Hit me up on Discord.
 - [The Vengabus Never Arrives](https://www.youtube.com/watch?v=zmAggvckIME)
 - [The Unofficial Official SimpleFlips Theme](https://www.youtube.com/watch?v=wcoGikN8lJg)
 - [Three Dog Night - One Is The Loneliest Number](https://www.youtube.com/watch?v=9nr2qJjvoB0)**
+- [Toadhemian Rhapsody](https://www.youtube.com/watch?v=foS1bG8p2K0)
+- [Toto - Africa (Vocals Oatmeal)](https://www.youtube.com/watch?v=_Y-p8LuB6VE)
 - [Vengaboys - We like to Party! (The Vengabus)](https://www.youtube.com/watch?v=6Zbi0XmGtMw)
 - [We Like to BUP (The VengaBUP)](https://www.youtube.com/watch?v=I-82cdMjAd8)
 - [WREAAAAAAAAAAAAA (Remastered)](https://www.youtube.com/watch?v=VYd3bOzLU1U)
