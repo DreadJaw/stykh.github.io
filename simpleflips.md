@@ -37,6 +37,7 @@ If you want to contribute a song. Hit me up on Discord.
 - [Oatmeal Bells](https://www.youtube.com/watch?v=7x_rOOT6UMs)
 - [Oatmeal Come Home](https://www.youtube.com/watch?v=2FrHv32cE9s)
 - [Simpleflips has a sparta remix](https://www.youtube.com/watch?v=jDYTHK2eQ-o)
+- [SimpleFlips' Nightmare (SimpleFlips Remix)](https://www.youtube.com/watch?v=t0McA7Gf268)
 - [Shine sprite for 4 minutes.](https://www.youtube.com/watch?v=3BwwbcO7yJ8)
 - [Super Buck Sunshine](https://www.youtube.com/watch?v=tifbKQt51WY)
 - [The Vengabup](https://www.youtube.com/watch?v=wUH0DiLdC0w)
@@ -48,5 +49,6 @@ If you want to contribute a song. Hit me up on Discord.
 - [Vengaboys - We like to Party! (The Vengabus)](https://www.youtube.com/watch?v=6Zbi0XmGtMw)
 - [We Like to BUP (The VengaBUP)](https://www.youtube.com/watch?v=I-82cdMjAd8)
 - [WREAAAAAAAAAAAAA (Remastered)](https://www.youtube.com/watch?v=VYd3bOzLU1U)
+- [You Simpleflipped in the Wrong GBJ](https://www.youtube.com/watch?v=JxDNtnn7j10)
 
 Shoutout to Simpleyflips
