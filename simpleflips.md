@@ -39,6 +39,7 @@ If you want to contribute a song. Hit me up on Discord.
 - [Simpleflips has a sparta remix](https://www.youtube.com/watch?v=jDYTHK2eQ-o)
 - [SimpleFlips' Nightmare (SimpleFlips Remix)](https://www.youtube.com/watch?v=t0McA7Gf268)
 - [Shine sprite for 4 minutes.](https://www.youtube.com/watch?v=3BwwbcO7yJ8)
+- [SPEED OF KIRB](https://www.youtube.com/watch?v=U1l6ca2Q3YU)
 - [Super Buck Sunshine](https://www.youtube.com/watch?v=tifbKQt51WY)
 - [The Vengabup](https://www.youtube.com/watch?v=wUH0DiLdC0w)
 - [The Vengabus Never Arrives](https://www.youtube.com/watch?v=zmAggvckIME)
