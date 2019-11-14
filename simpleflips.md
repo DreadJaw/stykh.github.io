@@ -28,6 +28,7 @@ If you want to contribute a song. Hit me up on Discord.
 - [GNOME POWER](https://www.youtube.com/watch?v=ltSQ-czeDEE)
 - [Harder Better Faster Oatmeal](https://www.youtube.com/watch?v=QmQ9GkzptLQ)
 - [Harder Better Faster Oatmeal 2](https://www.youtube.com/watch?v=VYd3bOzLU1U)
+- [i sing earthbound](https://www.youtube.com/watch?v=pbOwHuLKmpc)
 - [LINK RUNNING](https://www.youtube.com/watch?v=eaDeTV-LLYA)
 - [Luke Saward - Dire Dire Docks (2018 Remaster)](https://www.youtube.com/watch?v=CxBxc4swvDE)
 - [MAAAAMAAAA UWU](https://www.youtube.com/watch?v=h4aYzKb0Cx8)
